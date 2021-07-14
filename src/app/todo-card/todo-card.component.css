@@ -1,0 +1,9 @@
+.todo-card {
+    padding: 10px;
+    border: 1px dashed black;
+}
+
+.todo-card p {
+    font-size: 20px;
+    text-align: center;
+}
